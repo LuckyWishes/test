@@ -1,0 +1,6 @@
+hello Git
+git init
+git add .
+git commit ""
+
+123123
